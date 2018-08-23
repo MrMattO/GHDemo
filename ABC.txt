@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Master bug100
-
-=======
-Bugfix bug200
->>>>>>> Bug/fix
+MB300
