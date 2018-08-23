@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Master bug1
+=======
+>>>>>>> Bug/fix
