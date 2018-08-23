@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Bug chnages again
+=======
+>>>>>>> Bug/fix
