@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Master bug1
-=======
-Bugfix bug2
->>>>>>> Bug/fix
+Master bug100
+
