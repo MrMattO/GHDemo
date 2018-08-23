@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Master bug100
-
-=======
-Bugfix bug200
->>>>>>> Bug/fix
+MB3000
+BF2
