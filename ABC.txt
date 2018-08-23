@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Master bug100
 
+=======
+Bugfix bug200
