@@ -1,4 +1,5 @@
 <<<<<<< HEAD
 Bug chnages again
 =======
+Bufix changes conflict
 >>>>>>> Bug/fix
